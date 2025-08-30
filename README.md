@@ -34,7 +34,7 @@ Acest proiect reprezintă un site pentru un restaurant, care permite clienților
      $servername = "localhost"; // sau IP-ul serverului de baze de date
      $username = "root";        // sau utilizatorul bazei de date
      $password = "";            // parola pentru utilizatorul bazei de date
-     $dbname = "restaurant_db"; // numele bazei de date
+     $dbname = "restaurant"; // numele bazei de date
      
    - Dacă folosești un server live, va trebui să actualizezi aceste setări cu informațiile corespunzătoare pentru acel server (IP-ul serverului, utilizatorul și parola bazei de date).
 
