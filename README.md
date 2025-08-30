@@ -39,7 +39,7 @@ Acest proiect reprezintă un site pentru un restaurant, care permite clienților
    - Dacă folosești un server live, va trebui să actualizezi aceste setări cu informațiile corespunzătoare pentru acel server (IP-ul serverului, utilizatorul și parola bazei de date).
 
 6. *Accesarea site-ului*:
-   - După ce ai setat baza de date, deschide un browser și accesează [http://localhost/nume_proiect](http://localhost/nume_proiect) pentru a vizualiza site-ul tău.
+   - După ce ai setat baza de date, deschide un browser și accesează [http://localhost/nume_proiect](http://localhost/nume_proiect) pentru a vizualiza site-ul tău, iar nume_proiect este numele pe care il dai pentru proiect sau orice alt nume doresti sa botezi.
 
 ## Depanare
 
